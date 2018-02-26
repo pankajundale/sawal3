@@ -1,15 +1,18 @@
 [
-  {
-    "appTemplate" : "webapp",
-    "displayName" : "app1",
-    "linkedApp" : "shared",
-    "multiBranch" : false,
-    "name" : "app1",
-    "requiredRoles" : "none",
-    "trilloVersion" : "2.0",
-    "useTestData" : true,
-    "usingEnumsCatalog" : true,
-    "usingStringFiles" : true,
-    "usingViewSpecs" : true
-  }
+{
+"appTemplate" : "webapp",
+"description" : "app1",
+"displayName" : "app1",
+"htmlHeadTitle" : "app1",
+"keywords" : "app1",
+"linkedApp" : "shared",
+"multiBranch" : true,
+"name" : "app1",
+"requiredRoles" : "none",
+"trilloVersion" : "2.0",
+"useTestData" : true,
+"usingEnumsCatalog" : true,
+"usingStringFiles" : true,
+"usingViewSpecs" : true
+}
 ]
