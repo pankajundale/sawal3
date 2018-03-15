@@ -13,6 +13,7 @@
 
   var app1C = app1.app1C.prototype;
   var AppC = Shared.AppC.prototype;
+       
 
   app1C.handleAction = function(actionName, selectedObj) {
     if (actionName === "sideBarToggler") {
@@ -30,5 +31,6 @@
     }
     return AppC.handleAction.call(this, actionName, selectedObj);
   };
+ 
 
 })();

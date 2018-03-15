@@ -99,6 +99,16 @@
                 "tag" : "userDefined",
                 "trigger" : "_initial_",
                 "type" : "view"
+              },
+              {
+                "name" : "testdropdown_1",
+                "alignment" : "left",
+                "autoNav" : false,
+                "flexGrow" : "1",
+                "reference" : "testdropdown",
+                "tag" : "userDefined",
+                "trigger" : "_initial_",
+                "type" : "view"
               }
             ],
             "flexGrow" : "1",
