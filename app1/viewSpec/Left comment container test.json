@@ -1,0 +1,10 @@
+{
+  "name" : "Left comment container test",
+  "type" : "html",
+  "nextViewSpecs" : [
+    {
+      "name" : "Comment Box - Left_1",
+      "displayName" : "Comment Box - Left_1"
+    }
+  ]
+}
